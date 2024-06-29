@@ -1,0 +1,15 @@
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\bin\Debug\Silent Crypto Miner Builder.exe.config
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\bin\Debug\Silent Crypto Miner Builder.xml
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\bin\Debug\Silent Crypto Miner Builder.exe
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\bin\Debug\Silent Crypto Miner Builder.pdb
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\Silent Crypto Miner Builder.csproj.AssemblyReference.cache
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.AdvancedOptions.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.AlgorithmSelection.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.Builder.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.MinerETH.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.MinerXMR.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\SilentCryptoMiner.Properties.Resources.resources
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\Silent Crypto Miner Builder.csproj.GenerateResource.cache
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\Silent Crypto Miner Builder.csproj.CoreCompileInputs.cache
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\Silent Crypto Miner Builder.exe
+C:\Users\john boot\Source\Repos\SilentCryptoMiner\SilentCryptoMiner\obj\Debug\Silent Crypto Miner Builder.pdb
